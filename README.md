@@ -6,7 +6,9 @@
 This work proposes a novel methodology for identifying the topology and estimating the electrical parameters of Low-Voltage distribution networks by leveraging open Geographic Information System (GIS) data and incomplete SM datasets. Our approach enables DSO and researchers to analyse and model distribution grids where detailed network data is unavailable or incomplete.
 
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/f0f4bd18-b9f8-4818-8a17-04a7d3ab08b1" />
---> ![LV_52](https://github.com/user-attachments/assets/9accff37-a625-4169-a6a8-ee5dc551d315)
+--> <img width="419" alt="image" src="https://github.com/user-attachments/assets/7cd44a51-928d-4c65-81da-7e21906dc5be" />
+
+
 
 📂 Contents
 
