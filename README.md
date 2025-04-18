@@ -24,7 +24,7 @@ If you use this data or methodology, please cite our paper:
   publisher={Elsevier}
 }
 
-The datases is from :
+The dataset is from :
 
 @article{xia2024comparative,
   title={Comparative assessment of generative models for transformer-and consumer-level load profiles generation},
