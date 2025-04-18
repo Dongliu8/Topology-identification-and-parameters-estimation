@@ -4,15 +4,18 @@
 
 📄 Abstract
 This work proposes a novel methodology for identifying the topology and estimating the electrical parameters of Low-Voltage distribution networks by leveraging open Geographic Information System (GIS) data and incomplete SM datasets. Our approach enables DSO and researchers to analyse and model distribution grids where detailed network data is unavailable or incomplete.
+
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/f0f4bd18-b9f8-4818-8a17-04a7d3ab08b1" />
 --> ![LV_52](https://github.com/user-attachments/assets/9accff37-a625-4169-a6a8-ee5dc551d315)
 
 📂 Contents
+
 /topology parameters/: graph topologies in the Netherlands and the length of cables, etc.
 /Netherlands_data_cleaned_annual/: processed SM datasets, which collected and modified SM data (without any personal privacy information) in the Netherlands.
 
 
 📚 Citation
+
 If you use this data or methodology, please cite our paper:
 @article{liu2025topology,
   title={Topology identification and parameters estimation of LV distribution networks using open GIS data},
@@ -23,6 +26,8 @@ If you use this data or methodology, please cite our paper:
   year={2025},
   publisher={Elsevier}
 }
+
+
 
 The dataset is from :
 
